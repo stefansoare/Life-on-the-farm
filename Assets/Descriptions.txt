@@ -1,0 +1,13 @@
+Item descriptions:
+Axe
+Chop down trees and clear stumps with ease. Essential for gathering wood and expanding your farm
+Cabbage:
+A hearty vegetable that's perfect for hearty meals. Grow and harvest to keep your farm thriving. Can be sold at the market
+Cabbage seed: 
+Plant these seeds to grow your own cabbages. Takes a few days to mature, but the yield is worth it
+Hoe:
+Prepare your soil for planting with this trusty hoe. Perfect for tilling fields and creating rows for crops.
+Pickaxe
+Break rocks and ore with this sturdy pickaxe. Great for mining and clearing your land.
+Watering Can
+Keep your crops hydrated with this essential tool. Refill at any water source and ensure your plants stay healthy.
